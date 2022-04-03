@@ -1,0 +1,6 @@
+Для работы с вашей базой данных:
+1. Скачиваем Visual Studio;
+2. Открываем ClassForDatabaseInteraction.cs;
+3. Меняем переменные "database" и "password" на свои.
+
+РАБОТАЕТ ТОЛЬКО С MYSQL!!!

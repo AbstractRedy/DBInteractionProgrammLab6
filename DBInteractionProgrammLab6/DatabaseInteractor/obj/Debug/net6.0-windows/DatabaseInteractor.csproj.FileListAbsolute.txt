@@ -1,0 +1,123 @@
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.exe
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.deps.json
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.runtimeconfig.json
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.AssemblyReference.cache
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AddForm.resources
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.DeleteForm.resources
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.EditForm.resources
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.ElementsForm.resources
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.Form1.resources
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.GenerateResource.cache
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfoInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfo.cs
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CoreCompileInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CopyComplete
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\refint\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.genruntimeconfig.cache
+C:\Users\Ренатзве Здкин\Desktop\DatabaseInteractor\DatabaseInteractor\obj\Debug\net6.0-windows\ref\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.exe
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.deps.json
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.runtimeconfig.json
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.AssemblyReference.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AddForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.DeleteForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.EditForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.ElementsForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.Form1.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.GenerateResource.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfoInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfo.cs
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CoreCompileInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CopyComplete
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\refint\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.genruntimeconfig.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\ref\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.exe
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.deps.json
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.runtimeconfig.json
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.AssemblyReference.cache
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AddForm.resources
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.DeleteForm.resources
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.EditForm.resources
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.ElementsForm.resources
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.Form1.resources
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.GenerateResource.cache
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfoInputs.cache
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfo.cs
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CoreCompileInputs.cache
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CopyComplete
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\refint\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.genruntimeconfig.cache
+C:\Users\redky\Desktop\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\ref\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.exe
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.deps.json
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.runtimeconfig.json
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.AssemblyReference.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AddForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.DeleteForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.EditForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.ElementsForm.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.Form1.resources
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.GenerateResource.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfoInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfo.cs
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CoreCompileInputs.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CopyComplete
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\refint\DatabaseInteractor.dll
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.genruntimeconfig.cache
+C:\Users\Ренатзве Здкин\Desktop\Курсовая\Курсовая\Программа для взаимодейтсвия с БД (Работает со всеми БД из MySQL)\DatabaseInteractor\obj\Debug\net6.0-windows\ref\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.exe
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.deps.json
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.runtimeconfig.json
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.AssemblyReference.cache
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AddForm.resources
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.DeleteForm.resources
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.EditForm.resources
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.ElementsForm.resources
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.Form1.resources
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.GenerateResource.cache
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfoInputs.cache
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.AssemblyInfo.cs
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CoreCompileInputs.cache
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.csproj.CopyComplete
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\refint\DatabaseInteractor.dll
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.pdb
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\DatabaseInteractor.genruntimeconfig.cache
+C:\Users\redky\Desktop\Лаб 6\DatabaseInteractor\obj\Debug\net6.0-windows\ref\DatabaseInteractor.dll
